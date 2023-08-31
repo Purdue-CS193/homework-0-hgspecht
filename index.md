@@ -1,3 +1,11 @@
+# Hunter's First CS193 Homework
+
+## Hunter's Favorite Things About CS193
+
+- It teaches useful tools for CS180 and additional classes
+- It is a good class for introductory CS students
+- The TA's seem pretty cool, especially the one who is going to be grading my assignments
+  
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
