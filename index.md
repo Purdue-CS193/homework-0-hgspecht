@@ -4,6 +4,12 @@ You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+### About Me
+
+My name is Hunter Specht. 
+I am from Fort Wayne, IN and plan to double major in computer science and finance at Purdue University in West Lafayette, IN. 
+I also have a dog named Biscuit who I am looking forward to visiting over Labor Day weekend.
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
